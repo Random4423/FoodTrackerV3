@@ -92,6 +92,9 @@
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="eKJ-FN-vtf" secondAttribute="height" multiplier="1:1" id="ht4-EA-KPk"/>
                                         </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="keyPath" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
                                         <connections>
                                             <outletCollection property="gestureRecognizers" destination="wCQ-Gb-ILR" appends="YES" id="rBP-g7-mjY"/>
                                         </connections>
